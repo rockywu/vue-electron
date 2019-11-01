@@ -9,8 +9,8 @@ module.exports = {
   lintOnSave: true,
   // use the full build with in-browser compiler?
   // https://vuejs.org/v2/guide/installation.html#Runtime-Compiler-vs-Runtime-only
-  runtimeCompiler: false,
-  // webpack配置
+  runtimeCompiler: true,
+  // webpack配置/
   // see https://github.com/vuejs/vue-cli/blob/dev/docs/webpack.md
   chainWebpack: () => {},
   configureWebpack: (config) => {

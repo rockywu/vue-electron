@@ -11,7 +11,7 @@
   "dependencies": {
     "ant-design-vue": "^1.4.4",
     "core-js": "^3.3.2",
-    "electron": "6.1.2",
+    "electron": "9.1.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
